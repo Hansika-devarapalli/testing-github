@@ -1,0 +1,15 @@
+x=y=z=10 Multiple assignment
+a,b=b,a swapping feature
+//Logical
+and
+or
+not
+is
+is not
+in
+not in
+
+//comparision
+==  !=  >  <  >=  <=
+floor division //
+input - string,int(input())

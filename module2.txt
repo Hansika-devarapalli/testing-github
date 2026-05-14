@@ -1,0 +1,13 @@
+TERNARY CONDITIONS
+x = 10
+result = "positive" if x > 0 else "negative"
+
+CONTROL FLOW
+x = 10
+
+if x > 0:
+    print("positive")
+elif x == 0:
+    print("zero")
+else:
+    print("negative")
